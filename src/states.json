@@ -1,0 +1,252 @@
+[
+  {
+    "abbr": "AL",
+    "capital": "Montgomery",
+    "name": "Alabama"
+  },
+  {
+    "abbr": "AK",
+    "capital": "Juneau",
+    "name": "Alaska"
+  },
+  {
+    "abbr": "AZ",
+    "capital": "Phoenix",
+    "name": "Arizona"
+  },
+  {
+    "abbr": "AR",
+    "capital": "Little Rock",
+    "name": "Arkansas"
+  },
+  {
+    "abbr": "CA",
+    "capital": "Sacramento",
+    "name": "California"
+  },
+  {
+    "abbr": "CO",
+    "capital": "Denver",
+    "name": "Colorado"
+  },
+  {
+    "abbr": "CT",
+    "capital": "Hartford",
+    "name": "Connecticut"
+  },
+  {
+    "abbr": "DE",
+    "capital": "Dover",
+    "name": "Delaware"
+  },
+  {
+    "abbr": "FL",
+    "capital": "Tallahassee",
+    "name": "Florida"
+  },
+  {
+    "abbr": "GA",
+    "capital": "Atlanta",
+    "name": "Georgia"
+  },
+  {
+    "abbr": "HI",
+    "capital": "Honolulu",
+    "name": "Hawaii"
+  },
+  {
+    "abbr": "ID",
+    "capital": "Boise",
+    "name": "Idaho"
+  },
+  {
+    "abbr": "IL",
+    "capital": "Springfield",
+    "name": "Illinois"
+  },
+  {
+    "abbr": "IN",
+    "capital": "Indianapolis",
+    "name": "Indiana"
+  },
+  {
+    "abbr": "IA",
+    "capital": "Des Moines",
+    "name": "Iowa"
+  },
+  {
+    "abbr": "KS",
+    "capital": "Topeka",
+    "name": "Kansas"
+  },
+  {
+    "abbr": "KY",
+    "capital": "Frankfort",
+    "name": "Kentucky"
+  },
+  {
+    "abbr": "LA",
+    "capital": "Baton Rouge",
+    "name": "Louisiana"
+  },
+  {
+    "abbr": "ME",
+    "capital": "Augusta",
+    "name": "Maine"
+  },
+  {
+    "abbr": "MD",
+    "capital": "Annapolis",
+    "name": "Maryland"
+  },
+  {
+    "abbr": "MA",
+    "capital": "Boston",
+    "name": "Massachusetts"
+  },
+  {
+    "abbr": "MI",
+    "capital": "Lansing",
+    "name": "Michigan"
+  },
+  {
+    "abbr": "MN",
+    "capital": "Saint Paul",
+    "name": "Minnesota"
+  },
+  {
+    "abbr": "MS",
+    "capital": "Jackson",
+    "name": "Mississippi"
+  },
+  {
+    "abbr": "MO",
+    "capital": "Jefferson City",
+    "name": "Missouri"
+  },
+  {
+    "abbr": "MT",
+    "capital": "Helena",
+    "name": "Montana"
+  },
+  {
+    "abbr": "NE",
+    "capital": "Lincoln",
+    "name": "Nebraska"
+  },
+  {
+    "abbr": "NV",
+    "capital": "Carson City",
+    "name": "Nevada"
+  },
+  {
+    "abbr": "NH",
+    "capital": "Concord",
+    "name": "New Hampshire"
+  },
+  {
+    "abbr": "NJ",
+    "capital": "Trenton",
+    "name": "New Jersey"
+  },
+  {
+    "abbr": "NM",
+    "capital": "Santa Fe",
+    "name": "New Mexico"
+  },
+  {
+    "abbr": "NY",
+    "capital": "Albany",
+    "name": "New York"
+  },
+  {
+    "abbr": "NC",
+    "capital": "Raleigh",
+    "name": "North Carolina"
+  },
+  {
+    "abbr": "ND",
+    "capital": "Bismarck",
+    "name": "North Dakota"
+  },
+  {
+    "abbr": "OH",
+    "capital": "Columbus",
+    "name": "Ohio"
+  },
+  {
+    "abbr": "OK",
+    "capital": "Oklahoma City",
+    "name": "Oklahoma"
+  },
+  {
+    "abbr": "OR",
+    "capital": "Salem",
+    "name": "Oregon"
+  },
+  {
+    "abbr": "PA",
+    "capital": "Harrisburg",
+    "name": "Pennsylvania"
+  },
+  {
+    "abbr": "RI",
+    "capital": "Providence",
+    "name": "Rhode Island"
+  },
+  {
+    "abbr": "SC",
+    "capital": "Columbia",
+    "name": "South Carolina"
+  },
+  {
+    "abbr": "SD",
+    "capital": "Pierre",
+    "name": "South Dakota"
+  },
+  {
+    "abbr": "TN",
+    "capital": "Nashville",
+    "name": "Tennessee"
+  },
+  {
+    "abbr": "TX",
+    "capital": "Austin",
+    "name": "Texas"
+  },
+  {
+    "abbr": "UT",
+    "capital": "Salt Lake City",
+    "name": "Utah"
+  },
+  {
+    "abbr": "VT",
+    "capital": "Montpelier",
+    "name": "Vermont"
+  },
+  {
+    "abbr": "VA",
+    "capital": "Richmond",
+    "name": "Virginia"
+  },
+  {
+    "abbr": "WA",
+    "capital": "Olympia",
+    "name": "Washington"
+  },
+  {
+    "abbr": "WV",
+    "capital": "Charleston",
+    "name": "West Virginia"
+  },
+  {
+    "abbr": "WI",
+    "capital": "Madison",
+    "name": "Wisconsin"
+  },
+  {
+    "abbr": "WY",
+    "capital": "Cheyenne",
+    "name": "Wyoming"
+  }
+]
